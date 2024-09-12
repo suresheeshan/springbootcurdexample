@@ -10,4 +10,5 @@ public class CurdexamplesApplication {
 		SpringApplication.run(CurdexamplesApplication.class, args);
 	}
 
+
 }
